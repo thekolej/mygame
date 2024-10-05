@@ -1,3 +1,3 @@
 # mygame
-Mobil ve web 
+Mobil ve web girebilecek
 öğrenci ve öğrenmenler sadece anaokul kademesi
